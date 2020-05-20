@@ -1,4 +1,4 @@
-# coronapp
+# Covid - 19 App  
 
 A new Flutter application.
 
